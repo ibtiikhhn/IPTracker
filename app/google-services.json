@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1038975349022",
+    "firebase_url": "https://ip-tracker-803f8-default-rtdb.firebaseio.com",
+    "project_id": "ip-tracker-803f8",
+    "storage_bucket": "ip-tracker-803f8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1038975349022:android:7025d946e68b513be3990f",
+        "android_client_info": {
+          "package_name": "com.muibsols.iptracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1038975349022-koq8qk3aga8104v3kiru2dej1v5c0pf2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.muibsols.iptracker",
+            "certificate_hash": "1073338d9808d00dda4b2d37a2a9775458ad870e"
+          }
+        },
+        {
+          "client_id": "1038975349022-bip9q6u03bnotrq1o26bfg2h2lhukm0i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTRQxNRhbKu4I6-GNmRlNQv6IPWPNHBvQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1038975349022-bip9q6u03bnotrq1o26bfg2h2lhukm0i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
